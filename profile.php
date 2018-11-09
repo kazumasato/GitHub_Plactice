@@ -4,6 +4,6 @@
   <title></title>
 </head>
 <body>
-プロフィール
+purofi-ru
 </body>
 </html>
